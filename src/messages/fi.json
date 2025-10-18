@@ -1,0 +1,25 @@
+{
+  "main": {
+    "title": "Seuraavan sukupolven tekoälyavustaja, joka auttaa sinua ajattelemaan, suunnittelemaan ja rakentamaan — ideoista oivalluksiin. Suunniteltu ammattilaisille, kehittäjille ja innovaattoreille, jotka odottavat selkeyttä, älykkyyttä ja tarkkuutta.",
+    "tryDemo": "Kokeile iMMoSense-demoa",
+    "learnMore": "Lue lisää"
+  },
+  "nav": {
+    "chat": "Chatti"
+  },
+  "footer": {
+    "builtWith": "Rakennettu "
+  },
+  "chatInput": {
+    "typeYourMessage": "Kirjoita viestisi..."
+  },
+  "languageSwitcher": {
+    "language": "Kieli"
+  },
+  "modeToggle": {
+    "toggleTheme": "Vaihda teema",
+    "light": "Vaalea",
+    "dark": "Tumma",
+    "system": "Järjestelmä"
+  }
+}

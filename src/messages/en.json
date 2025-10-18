@@ -1,0 +1,25 @@
+{
+  "main": {
+    "title": "A next-generation AI assistant that helps you think, plan, and build —from ideas to insights. Designed for professionals, developers, and innovators who expect clarity, intelligence, and precision.",
+    "tryDemo": "Try iMMoSense Demo",
+    "learnMore": "Learn More"
+  },
+  "nav": {
+    "chat": "Chat"
+  },
+  "footer": {
+    "builtWith": "Built with "
+  },
+  "chatInput": {
+    "typeYourMessage": "Type your message..."
+  },
+  "languageSwitcher": {
+    "language": "Language"
+  },
+  "modeToggle": {
+    "toggleTheme": "Toggle theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  }
+}
