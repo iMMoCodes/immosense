@@ -19,15 +19,15 @@
 ## 🚑 Project Status
 Currently in initial setup and base feature development phase:
 
-✅ Accounts and API keys created
-✅ Base project initialized with Next.js + TypeScript
-✅ Tailwind + shadcn configured
-✅ Project structure defined
-✅ Main page layout and providers set up (themes + i18n)
-✅ AI chat interface (first version) and API route added
-✅ Language switcher and theme toggle components added
-✅ Basic components created: chat, footer, navbar
-✅ Utility helpers and initial translations started
+- ✅ Accounts and API keys created
+- ✅ Base project initialized with Next.js + TypeScript
+- ✅ Tailwind + shadcn configured
+- ✅ Project structure defined
+- ✅ Main page layout and providers set up (themes + i18n)
+- ✅ AI chat interface (first version) and API route added
+- ✅ Language switcher and theme toggle components added
+- ✅ Basic components created: chat, footer, navbar
+- ✅ Utility helpers and initial translations started
 
 Next steps:
 
