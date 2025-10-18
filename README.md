@@ -17,20 +17,24 @@
 ---
 
 ## 🚑 Project Status
+Currently in initial setup and base feature development phase:
 
-Currently in **initial setup phase**:
-
-- ✅ Accounts and API keys created
-- ✅ Base project initialized with Next.js + TypeScript
-- ✅ Tailwind + shadcn configured
-- ✅ Project structure defined
+✅ Accounts and API keys created
+✅ Base project initialized with Next.js + TypeScript
+✅ Tailwind + shadcn configured
+✅ Project structure defined
+✅ Main page layout and providers set up (themes + i18n)
+✅ AI chat interface (first version) and API route added
+✅ Language switcher and theme toggle components added
+✅ Basic components created: chat, footer, navbar
+✅ Utility helpers and initial translations started
 
 Next steps:
 
-- [ ] Implement API routes for chat and PDF summarization
-- [ ] Build chat interface (MVP)
-- [ ] Connect Supabase for message persistence
-- [ ] Deploy first live version to Vercel
+- Implement PDF summarization
+- Connect Supabase for message persistence
+- Improve AI chat with memory/context handling
+- Deploy first live version to Vercel
 
 ---
 
@@ -57,12 +61,12 @@ pnpm dev
 ## 🔐 Environment Variables
 
 Create a .env.local file in the root directory with the following:
-
+```bash
 OPENAI_API_KEY=your_openai_key_here
 NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 SUPABASE_SERVICE_KEY=your_supabase_service_key
-
+```
 (This file is ignored by Git — see .gitignore.)
 
 ---
